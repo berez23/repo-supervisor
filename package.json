@@ -34,7 +34,7 @@
   "dependencies": {
     "acorn": "^5.0.3",
     "bluebird": "^3.5.0",
-    "github": "^9.2.0",
+    "github": "^14.0.0",
     "handlebars": "^4.0.8",
     "handlebars-loader": "^1.5.0",
     "jsonwebtoken": "^7.4.0",
